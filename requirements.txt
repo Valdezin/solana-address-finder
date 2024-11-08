@@ -1,0 +1,3 @@
+cupy
+base58
+pynacl
